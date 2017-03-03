@@ -1,0 +1,20 @@
+h1{
+color: gold;
+font-size: 100px;
+}
+
+#flowerwolf{
+  height: 150px;
+  width: 200px;
+}
+#smallpoem{
+  color: pink;
+  font-size: 30px;
+  font-style: italic;
+  font-family: cursive;
+}
+
+#wolves{
+  color: gray;
+  font-size: 30px
+}
