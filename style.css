@@ -14,7 +14,11 @@ font-size: 100px;
   font-family: cursive;
 }
 
-#wolves{
+#shortsentence{
   color: mulberry ;
   font-size: 30px
+}
+#wolves{
+  height: 200px;
+  width: 180px;
 }
